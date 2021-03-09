@@ -18,7 +18,7 @@ RUN apt-get update -y && \
     cd ../../ && \
     pip3 install -r requirements.txt && \
     cp -r ./pytgcalls /Aniemusic/ && \
-    cd /MusicBot && \
+    cd /Aniemusic && \
     pip3 install -U -r requirements.txt
 
 WORKDIR /Aniemusic 
