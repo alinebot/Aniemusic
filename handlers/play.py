@@ -66,5 +66,5 @@ async def play(client: Client, message_: Message):
         position = await sira.add(message_.chat.id, file_path)
         await res.edit_text(f"DenvilMusic=#️⃣ Queued at position {position}.")
     else:
-        await res.edit_text("DenvilMusic=▶️ Playing...")
+        await res.edit_text("DenvilMusicbot=▶️ Playing...")
         tgcalls.pytgcalls.join_group_call(message_.chat.id, file_path, 48000)
