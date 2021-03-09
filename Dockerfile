@@ -7,7 +7,7 @@ RUN apt-get update -y && \
         python3-pip \
         git \
         ffmpeg && \
-    git clone https://github.com/gamerfuckerofficial/MusicBot.git && \
+    git clone https://github.com/alinebot/Aniemusic.git && \
     cd MusicBot && \
     git clone https://github.com/pytgcalls/pytgcalls.git && \
     cd pytgcalls && \
@@ -17,9 +17,9 @@ RUN apt-get update -y && \
     npm install && \
     cd ../../ && \
     pip3 install -r requirements.txt && \
-    cp -r ./pytgcalls /MusicBot/ && \
+    cp -r ./pytgcalls /Aniemusic/ && \
     cd /MusicBot && \
     pip3 install -U -r requirements.txt
 
-WORKDIR /MusicBot
+WORKDIR /Aniemusic 
 CMD ["python3" "main.py"]
