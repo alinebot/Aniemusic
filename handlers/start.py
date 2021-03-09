@@ -18,15 +18,15 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://t.me/Gamerzbots"
+                        "⚒ Source code", url="https://t.me/Anie_news"
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/miakhalifachatgroup"
+                        "💬 Group", url="https://t.me/Anie_support"
                     ),
                     InlineKeyboardButton(
-                        "Channel 🔈", url="https://t.me/Gamerzbots"
+                        "Channel 🔈", url="https://t.me/Anie_news"
                     )
                 ]
             ]
