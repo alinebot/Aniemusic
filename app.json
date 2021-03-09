@@ -2,7 +2,7 @@
   "name": "MusicBot",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
-  "repository": "https://github.com/alinebot/Aniemusic",
+  "repository": "https://github.com/alinebot/MusicBot",
   "stack": "container",
   "env": {
     "SESSION_NAME": {
