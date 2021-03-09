@@ -18,7 +18,7 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "Add Me to your group", url="https://t.me/URLmusicbot?startgroup=true)
+                        "Add Me to your group", url="https://t.me/URLmusicbot?startgroup=true"
                     )
                 ],
                 [
