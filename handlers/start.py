@@ -18,7 +18,7 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://t.me/Anie_news"
+                        "⚒ Source code", url="https://t.me/Anie_support"
                     )
                 ],
                 [
