@@ -18,12 +18,12 @@ Use the buttons below to know more about me.""",
             [
                 [
                     InlineKeyboardButton(
-                        "⚒ Source code", url="https://t.me/Anie_support"
+                        "Add Me to your group", url="https://t.me/URLmusicbot?startgroup=true)
                     )
                 ],
                 [
                     InlineKeyboardButton(
-                        "💬 Group", url="https://t.me/Anie_support"
+                        "💬 Group", url="https://t.me/AnieRoSupport"
                     ),
                     InlineKeyboardButton(
                         "Channel 🔈", url="https://t.me/Anie_news"
