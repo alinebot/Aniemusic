@@ -11,7 +11,8 @@ async def start_(client: Client, message: Message):
     await message.reply_text(
         f"""<b>👋🏻 Hi {message.from_user.first_name}!</b>
 
-I am GamerzBot Music Player, an open-source bot that lets you play music in your Telegram groups.
+I am Denvil Music Player, 🥳 I can play music in your Telegram Group's Voice Chat😉
+.
 
 Use the buttons below to know more about me.""",
         reply_markup=InlineKeyboardMarkup(
