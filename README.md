@@ -1,51 +1,33 @@
-# SU Music Player — The first open-source PyTgCalls based Pyrogram bot to play music in voice chats
+ <h1 align="centre">🎶 Evil Music Bot 🎶</h1>
 
-## Note
+<p align="center">
+  <img src="./resources/extras/1615044144821.jpg" alt="Evilmusicbot">
+</p>
 
-Neither this, or PyTgCalls are fully stable.
-
-## Requirements
+## Requirements 📝
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
 - Python 3.7+
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
 
-## Deployment
+<h2 align="centre">⚙️ Set Up ⚙️</h3>
 
-### Config
+<h3 align="centre"> Heroku </h4>
 
-Copy `example.env` to `.env` and fill it with your credentials.
-
-### Without Docker
-
-1. Install Python requirements:
-   ```bash
-   pip install -r requirements.txt
-   ```
-2. Run:
-   ```bash
-   python main.py
-   ```
-
-### Using Docker
-
-1. Build:
-   ```bash
-   docker build -t musicplayer .
-   ```
-2. Run:
-   ```bash
-   docker run --env-file .env musicplayer
-   ```
-
-### Heroku
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
-### Thanks to [Kraken_The_BadASS](https://t.me/Kraken_The_BadASS)
+Get STRING_NAME from here:
 
-## Credits
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://repl.it/@pawanjatt/evilmusicbot)
 
-- [Roj](https://github.com/rojserbest): main developer
-- [Marvin](https://github.com/BlackStoneReborn): bug reporter
-- [Laky](https://github.com/Laky-64) & [Andrew](https://github.com/AndrewLaneX): PyTgCalls
+### Mandatory Vars.
+
+- Some Of The Mandatory Vars Are :-
+   - `API_ID` :  Give API_ID of your Alternate Telegram Account.
+   - `API_HASH` :  Give API_HASH of your Alternate Telegram Account.
+   - `STRING_NAME` :  Make a string session from [here](https://repl.it/@pawanjatt/evilmusicbot)
+   - `BOT_TOKEN` :  Make a Bot from [@Botfather](https://t.me/botfather) and fill it's bot token.
+   - `SUDO_USERS` :  Fill Userid of yhe users whom you want to be able to control the bot. You can add multiple id by giving a space in b/w each id.
+
+
