@@ -1,7 +1,7 @@
- <h1 align="centre">🎶 Evil Music Bot 🎶</h1>
+ <h1 align="centre">🎶 Denvil Music Bot 🎶</h1>
 
 <p align="center">
-  <img src="./resources/extras/1615044144821.jpg" alt="Evilmusicbot">
+  <img src=".https://telegra.ph/file/327fc8564ad6033ad1e4e.jpg" alt="Denvilmusicbot">
 </p>
 
 ## Requirements 📝
@@ -15,7 +15,7 @@
 
 <h3 align="centre"> Heroku </h4>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)]https://heroku.com/deploy?template=https://github.com/alinebot/MusicBot)
 
 Get STRING_NAME from here:
 
